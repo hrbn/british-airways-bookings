@@ -1,0 +1,9 @@
+imbalanced-learn
+IPython
+ipywidgets
+notebook
+numpy
+pandas
+plotly
+scikit-learn
+skrub
